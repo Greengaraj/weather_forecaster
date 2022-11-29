@@ -1,0 +1,1 @@
+Barometer barometer;  // Инициализация барометра
